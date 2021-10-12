@@ -1,6 +1,6 @@
-# Livro de Receitas :man_cook:
+# Aprendendo git :man_cook:
 
-Olá, seja bem vindo ao meu primeiro livro de receitas para aprender git e github.
+Apenas para prender git e github.
 
 
 

@@ -1,8 +1,6 @@
-# Aprendendo git :man_cook:
+# Aprendendo git 
 
-Apenas para prender git e github.
-
-
+Apenas para aprender git e github.
 
 Aproveite o nada que terá por aqui!!!
 
